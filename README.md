@@ -7,9 +7,10 @@ http://gae.uniriotec.br/7/material.html
 
 ## Referência Bibliográfica Complementar
 ### Livros sobre o R
+#### Usando R: Um Guia para Cientistas Políticos
+http://electionsbr.com/livro/
 #### Introdução a R para Visualização e Apresentação de Dados
 http://sillasgonzaga.com/material/curso_visualizacao/
-
 #### Ciência de Dados com R
 https://cdr.ibpad.com.br/
 
