@@ -4,7 +4,6 @@
 #### site do Grupo de Apoio Estatístico - GAE
 http://gae.uniriotec.br/7/material.html
 
-
 ## Referência Bibliográfica Complementar
 ### Livros sobre o R
 #### Usando R: Um Guia para Cientistas Políticos
@@ -13,20 +12,28 @@ http://electionsbr.com/livro/
 http://sillasgonzaga.com/material/curso_visualizacao/
 #### Ciência de Dados com R
 https://cdr.ibpad.com.br/
-
 #### Livros sobre estatística da USP
 http://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/category/estatistica
 
+# Galeria de Vídeos do Estatística com R
+
+## Introdução ao R
+https://www.youtube.com/watch?v=8LnZNC4hxdQ&index=2&list=PL98wo5oPtTvK05exP_8Bku3ye-xXIlRc9
+## Introdução ao R Commander
+https://www.youtube.com/watch?v=CBR9sz4mYWM&list=PL98wo5oPtTvLKKhx6g4oatlnjfEvyO1jl
+## Introdução ao Tidyverse
+https://www.youtube.com/watch?v=dvkFWm6Th54&list=PL98wo5oPtTvK13bqouN2vRZdwcSAEf_jS
 
 
 
-## Outros Livros
+# Outros Livros e Apostilas sobre o R
 #### Foundations of Statistics with R
 https://bookdown.org/speegled/foundations-of-statistics/
 #### An R Platform for Social Scientists
 https://bookdown.org/burak2358/SARP-EN/
 #### R for marketing students
 https://bookdown.org/content/1340/
+
 
 #### Data Visualization with R
 https://rkabacoff.github.io/datavis/
@@ -35,6 +42,7 @@ https://m-clark.github.io/data-processing-and-visualization/
 
 #### plotly for R
 https://plotly-book.cpsievert.me/
+
 
 #### Principles of Econometrics with R
 https://bookdown.org/ccolonescu/RPoE4/
