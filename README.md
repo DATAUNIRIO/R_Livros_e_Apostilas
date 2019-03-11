@@ -61,3 +61,17 @@ http://www.mayin.org/ajayshah/KB/R/index.html
 Using Google Analytics with R
 https://github.com/michalbrys/Using-Google-Analytics-with-R
 http://michalbrys.com/book/?fbclid=IwAR3ww5UCadRBVtRp9LQrAcQpd-mcwM88ciMuEaJ8_pKRrAwLUoxkWnRzAJ0
+
+
+### Conjunto de textos/tutoriais para R - Vanderlei Júlio Debastiani 
+https://vanderleidebastiani.github.io/tutoriais/
+#### Introdução à programação - Conceitos e aplicação de Lógica
+https://vanderleidebastiani.github.io/tutoriais/Introducao_a_programacao_Conceitos_e_aplicacao_de_Logica.html
+#### Introdução ao R
+https://vanderleidebastiani.github.io/tutoriais/Introducao_ao_R.html
+#### Aprendendo R em 10 minutos
+https://vanderleidebastiani.github.io/tutoriais/Aprendendo_R_em_10_minutos.html
+#### Gráficos com R
+https://vanderleidebastiani.github.io/tutoriais/Graficos_com_R.html
+#### Documentação de resultados usando R Markdown
+https://vanderleidebastiani.github.io/tutoriais/Documentacao_de_resultados_usando_R_Markdown.html
