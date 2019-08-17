@@ -75,3 +75,6 @@ https://github.com/michalbrys/Using-Google-Analytics-with-R
 http://michalbrys.com/book/?fbclid=IwAR3ww5UCadRBVtRp9LQrAcQpd-mcwM88ciMuEaJ8_pKRrAwLUoxkWnRzAJ0
 
 
+
+# Cheat Sheets
+https://www.rstudio.com/resources/cheatsheets/
