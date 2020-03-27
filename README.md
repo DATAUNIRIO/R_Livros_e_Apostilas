@@ -14,6 +14,9 @@ http://sillasgonzaga.com/material/curso_visualizacao/
 #### Ciência de Dados com R
 https://cdr.ibpad.com.br/
 
+#### Repositório com materiais de estudo de R 
+https://github.com/beatrizmilz/materiais_estudo_R
+
 #### Livros sobre estatística da USP
 http://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/category/estatistica
 
