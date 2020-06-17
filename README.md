@@ -1,5 +1,11 @@
 # Livros e Apostilas sobre o R
 
+## Para o download dos livros, copie e cole no R o código abaixo.
+install.packages("usethis")
+usethis::use_course("https://github.com/DATAUNIRIO/R_Livros_e_Apostilas/archive/master.zip")
+
+
+
 ## Referência Bibliográfica Básica 
 #### site do Grupo de Apoio Estatístico - GAE
 http://gae.uniriotec.br/7/material.html
