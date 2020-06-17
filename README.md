@@ -1,8 +1,8 @@
 # Livros e Apostilas sobre o R
 
-## Para o download dos livros, copie e cole no R o código abaixo.
-install.packages("usethis")
-usethis::use_course("https://github.com/DATAUNIRIO/R_Livros_e_Apostilas/archive/master.zip")
+## Para o download dos livros, copie e cole no R o código abaixo.   
+install.packages("usethis")   
+usethis::use_course("https://github.com/DATAUNIRIO/R_Livros_e_Apostilas/archive/master.zip")   
 
 
 
