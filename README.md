@@ -42,6 +42,9 @@ https://bookdown.org/content/1340/
 
 
 #### Data Visualization with R
+BBC Visual and Data Journalism cookbook for R graphics
+https://bbc.github.io/rcookbook/
+DATAVIS
 https://rkabacoff.github.io/datavis/
 Data Processing & Visualization
 https://m-clark.github.io/data-processing-and-visualization/
