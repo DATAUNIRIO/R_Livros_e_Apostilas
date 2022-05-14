@@ -18,6 +18,8 @@ http://electionsbr.com/livro/
 http://sillasgonzaga.com/material/curso_visualizacao/
 #### Ciência de Dados com R
 https://cdr.ibpad.com.br/
+#### Análises Ecológicas no R
+https://analises-ecologicas.netlify.app/
 #### Livros sobre estatística da USP
 http://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/category/estatistica
 
